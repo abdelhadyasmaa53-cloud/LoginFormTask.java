@@ -18,6 +18,3 @@ A simple Java AWT login form that checks the username, password, and user role.
 | student1 | stud123 | Student |
 | ta1 | ta123 | TA |
 | prof1 | prof123 | Professor |
-
-## Author
-Student Java Project
